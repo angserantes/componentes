@@ -1,0 +1,1 @@
+header y footer se realizan en js
